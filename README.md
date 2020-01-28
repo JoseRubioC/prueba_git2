@@ -1,3 +1,5 @@
 # prueba_git2
 
-blablabla
+este es el primer cambio en otra rama
+
+otro cambio
